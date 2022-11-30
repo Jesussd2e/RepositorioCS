@@ -1,0 +1,13 @@
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\bin\Debug\operaciones.exe.config
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\bin\Debug\operaciones.exe
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\bin\Debug\operaciones.pdb
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.csproj.AssemblyReference.cache
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.Form1.resources
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.Properties.Resources.resources
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.csproj.GenerateResource.cache
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.exe
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.pdb
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.Polar.resources
+C:\Users\gusfe\OneDrive\Escritorio\progC\operaciones\operaciones\obj\Debug\operaciones.Rectangular.resources
